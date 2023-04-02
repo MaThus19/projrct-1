@@ -1,0 +1,149 @@
+.body {}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(97, 162, 172);
+}
+
+.active {
+    background-color: rgb(97, 162, 172);
+}
+
+.a1 {
+    background-color: rgb(97, 162, 172);
+    border: 0px;
+    /* filter: invert(100%); */
+}
+
+.active {
+    color: black;
+}
+
+.a2 {
+    display: flex;
+    position: relative;
+    /* left: 55pc; */
+    /* padding-left: 55%; */
+    background-color: rgb(97, 162, 172);
+
+
+
+}
+
+
+
+.a1 {
+    padding-top: 15px;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+    letter-spacing: 7px;
+    height: 13cm;
+    text-align: center;
+    color: ghostwhite;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    position: relative;
+    bottom: 350px;
+    color: ghostwhite;
+    font-size: 40px;
+}
+
+.a4 {
+
+    /* font-family: Merchanto Reg; */
+    background: url(r3iiaml7gxsmqtolflfn.png) center center / cover no-repeat;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    /* filter: blur(8px); */
+
+}
+h4{
+    position: relative;
+    left:300px;
+    font-family: Brush script std;
+    color: ghostwhite;
+font-size: 1.1em;
+}
+h6{
+    font-family: gabriola;
+    position: relative;
+    font-size: 1.1em;
+    bottom:35px;
+    left:300px;
+}
+.nav{
+    position: relative;
+    left: 48%;
+}
+.a5 {
+
+    position: relative;
+    bottom: 50px;
+}
+
+.a6 {
+    padding: 9px 10px 8px 10px;
+    position: relative;
+    left: 50%;
+    bottom: 350px;
+    border-radius: 15px;
+    color: ghostwhite;
+    border: 0px;
+    background-color: rgb(231, 94, 57);
+}
+.a7{
+    border-radius: 5px;
+    background-color:  rgb(130,195,65);
+}
+.a8{
+    border-radius: 5px;
+    background-color:  rgb(222,243,202);
+}
+table{
+    text-align: center;
+    
+    border: 1px solid;
+}
+tr{
+    height: 55px;
+}
+.a9{
+    font-size: 1.9em;
+    color: rgb(160,202,29);
+}
+.b1{
+    position: relative;
+    bottom: 25px;
+}
+hr{
+    width: 170px;
+    position: relative;
+    bottom: 29px;
+    color: ghostwhite;
+}
